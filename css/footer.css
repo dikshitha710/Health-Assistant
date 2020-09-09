@@ -1,0 +1,19 @@
+.footer{
+  z-index: 1;
+  position: inherit;
+  margin: 0;
+  bottom: 0px;
+  background-color: #333333;
+  left:0px;
+  width:100%;
+  height:auto;
+
+}
+.headlast{
+  padding: 5px;
+}
+.red{
+  height: 7px;
+  background-color: red;
+  z-index: 3;
+}
